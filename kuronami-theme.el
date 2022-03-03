@@ -158,14 +158,6 @@
 
    ;;; Third Party Faces:
 
-   ;; Company:
-   `(company-tooltip                 ((t (:background ,kuronami-black-01))))
-   `(company-tooltip-annotation      ((t (:foreground ,kuronami-blue-02))))
-   `(company-tooltip-common          ((t (:foreground ,kuronami-green-03))))
-   `(company-tooltip-scrollbar-thumb ((t (:inherit company-tooltip))))
-   `(company-tooltip-scrollbar-track ((t (:inherit company-tooltip))))
-   `(company-tooltip-selection       ((t (:background ,kuronami-green-01))))
-
    ;;; Programming Language Faces:
 
    ;; Markdown:
